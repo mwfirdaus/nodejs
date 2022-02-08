@@ -2,7 +2,11 @@
 
 ## Node.js is JavaScript
 
-Node.js is a runtime for built on top of Chrome's V8. It allows you to develop apps in JavaScript outside of the browser. It's single threaded non blocking and asynchronous. This is acheived by the use of an event loop at the core of Node.js. If you know JS then you already know how to develop with Node.js, kinda....
+- Node.js is an open source server environment
+- Node.js is free
+- Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
+- Node.js uses JavaScript on the server
+
 ## Use cases
 Because Node.js can run outside of the browser, it can be used for pretty much anything!
 
